@@ -15,7 +15,7 @@
 
 
 
-Основан на оверлее InGame2 от Dartandr.
+Основан на оверлее InGame2 от [Dartandr](https://github.com/Dartandr).
 Редизайн в стиле *Milk* выполнен автором Sometim.
 >[!NOTE]
 >Шрифт загружается через Google Fonts, поэтому при отсутствии подключения к интернету он заменяется на стандартный моноширинный шрифт.
@@ -33,7 +33,7 @@ Installation
  1. Place the `static` anchor.
  2. Select the overlay from the Tosu panel.
 
-Based on InGame2 by Dartandr.
+Based on InGame2 by [Dartandr](https://github.com/Dartandr).
 Milk redesign by Sometim.
 
 >[!Note]
