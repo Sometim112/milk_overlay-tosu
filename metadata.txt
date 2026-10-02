@@ -1,0 +1,8 @@
+Usecase: ingame, obs-overlay
+Name: InGame2 (milk)
+Version: 1.1.3
+Author: Dartandr
+redesign: Sometim (milk)
+CompatibleWith: gosu, tosu
+Resolution: 420x140
+authorLinks: https://github.com/Dartandr
