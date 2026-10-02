@@ -1,6 +1,6 @@
 # milk_overlay-tosu
 
-<details open>
+
 
 🇷🇺 Русский
 Компактный внутриигровой оверлей для режимов tosu и gosu, выполненный в стиле игры *Milk Outside a Bag of Milk*. Особенности: черная панель, пульсирующая красная рамка, розовые цифры и пиксельный шрифт Press Start 2P. Разрешение: 420x140.
@@ -11,9 +11,9 @@
 <note>
 Примечание: шрифт загружается через Google Fonts, поэтому при отсутствии подключения к интернету он заменяется на стандартный моноширинный шрифт.
 </note>
-</details>
 
-<details>
+
+
 🇬🇧 English
 A compact in-game overlay for tosu and gosu, styled after Milk Outside a Bag of Milk. Black panel, pulsing red border, pink numbers, and the Press Start 2P pixel font. Resolution: 420x140.
 
@@ -24,4 +24,3 @@ Based on InGame2 by Dartandr. Milk redesign by Sometim.
 <note>
 Note: the font is loaded from Google Fonts, so it falls back to monospace when offline.
 </note>
-</details>
