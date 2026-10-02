@@ -11,7 +11,7 @@
 Основан на скине InGame2 от Dartandr.
 Редизайн в стиле *Milk* выполнен автором Sometim.
 >[!NOTE]
->шрифт загружается через Google Fonts, поэтому при отсутствии подключения к интернету он заменяется на стандартный моноширинный шрифт.
+>Шрифт загружается через Google Fonts, поэтому при отсутствии подключения к интернету он заменяется на стандартный моноширинный шрифт.
 
 
 
@@ -25,4 +25,4 @@ Based on InGame2 by Dartandr.
 Milk redesign by Sometim.
 
 >[!Note]
->the font is loaded from Google Fonts, so it falls back to monospace when offline.
+>The font is loaded from Google Fonts, so it falls back to monospace when offline.
