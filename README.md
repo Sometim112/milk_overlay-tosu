@@ -30,7 +30,7 @@ It shows pp (live during play, 100% pp in the menu), a map progress bar, and cou
 
 Installation
 
- 1. Place the static anchor.
+ 1. Place the `static` anchor.
  2. Select the overlay from the Tosu panel.
 
 Based on InGame2 by Dartandr.
