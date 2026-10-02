@@ -21,4 +21,4 @@ It shows pp (live during play, 100% pp in the menu), a map progress bar, and cou
 Based on InGame2 by Dartandr. Milk redesign by Sometim.
 
 >[!Note]
->the font is loaded from Google Fonts, so it >falls back to monospace when offline.
+>the font is loaded from Google Fonts, so it falls back to monospace when offline.
