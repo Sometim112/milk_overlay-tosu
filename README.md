@@ -9,7 +9,7 @@
 
 Основан на скине InGame2 от Dartandr. Редизайн в стиле *Milk* выполнен автором Sometim.
 >[!NOTE]
->Примечание: шрифт загружается через Google >Fonts, поэтому при отсутствии подключения к >интернету он заменяется на стандартный >моноширинный шрифт.
+>шрифт загружается через Google Fonts, >поэтому при отсутствии подключения к >интернету он заменяется на стандартный >моноширинный шрифт.
 
 
 
@@ -21,4 +21,4 @@ It shows pp (live during play, 100% pp in the menu), a map progress bar, and cou
 Based on InGame2 by Dartandr. Milk redesign by Sometim.
 
 >[!Note]
->Note: the font is loaded from Google Fonts, >so it falls back to monospace when offline.
+>the font is loaded from Google Fonts, so it >falls back to monospace when offline.
